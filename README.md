@@ -2,7 +2,6 @@
 - 👀 Estoy insteresado en el Desarrollo Web
 - 🌱 Actualmente estoy aprendiendo a desarrollar con el framework Laravel
 - 💞️ Estoy colaborando en un nuevo Proyecto web
-- 📫 Puedes encontrarme en mis redes sociales
 
 <!---
 GustavoSDS/GustavoSDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
