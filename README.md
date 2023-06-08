@@ -1,7 +1,5 @@
 - 👋 Hola, Soy @Gustavo S. Dos Santos
-- 👀 Estoy insteresado en el Desarrollo Web
-- 🌱 Actualmente estoy aprendiendo a desarrollar con el framework Laravel
-- 💞️ Estoy colaborando en un nuevo Proyecto web
+- 👨‍💻 Estoy insteresado en el Desarrollo Web
 
 <!---
 GustavoSDS/GustavoSDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
