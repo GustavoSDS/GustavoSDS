@@ -65,19 +65,23 @@ const menuPrincipal = document.querySelector(".nav-principal__menu");
 menuPrincipal.addEventListener('click', (e) => {
   if (e.target) {
     console.log(e.target);
-  }else{
+  } else {
     console.log("Not clicked");
   }
 });
 
-const addClassWithScroll = (element, sign, numScroll) => {
-  window.addEventListener("scroll", function () {
-    sign === '>' ? window.pageYOffset > numScroll ? element.classList.add('menu-active') : element.classList.remove('menu-active') : window.pageYOffset < numScroll ? ()=>{removeClassElement(); element.classList.add('menu-active')} : element.classList.remove('menu-active');
-  });
-}
+window.addEventListener("scroll", function () {
+  let scroll = this.window.pageYOffset;
+  if (scroll > 1350) {
+    removeClassElement(); 
+    menuContactMe.classList.add('menu-active');
+  }else{
+    removeClassElement(); 
+    menuHome.classList.add('menu-active');
+  }
 
-addClassWithScroll(menuContactMe, '>', 1200);
-addClassWithScroll(menuHome, '<', 1100);
+});
+
 
 const removeClassElement = (e = null) => {
   const menuLinks = document.querySelectorAll(".nav-principal__menu-link");
