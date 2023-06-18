@@ -4,7 +4,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=299EF3&center=true&vCenter=true&repeat=true&width=500&height=42&lines=Programador+Front-End;Competencias+en+HTML%2C+CSS%2C+y+JavaScript;Versión+Control(git);Diseño+Responsivo;Continuo+Aprendizaje;Adaptabilidad+y+Flexibilidad;Atención+al+Detalle" alt="Typing SVG" /></a></p>
 
 ## <picture><img src = "./assets/images/md/about_me.gif" align="center" width ="120px"></picture> **About me** <picture> </picture> <br>
-<img align="right" src="./assets/images/md/programming.svg" width = 350px>
+<img align="right" src="./assets/images/md/about_me-right.gif" width = 350px>
 
 - ¡Hola! Bienvenido a mi perfil de GitHub, soy un apasionado desarrollador front-end con una sólida experiencia en la creación de soluciones web innovadoras y atractivas.
 - Constantemente busco oportunidades para aprender y experimentar con las últimas herramientas y frameworks de desarrollo.
