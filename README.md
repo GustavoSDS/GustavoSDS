@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hola, soy Gustavo S. Dos Santos</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=299EF3&center=true&vCenter=true&repeat=true&width=500&height=42&lines=Competencia+en+HTML%2C+CSS%2C+y+JavaScript;Versión+Control(git);Diseño+Responsivo;Continuo+Aprendizaje;Adaptabilidad+y+Flexibilidad;Atención+al+Detalle" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=299EF3&center=true&vCenter=true&repeat=true&width=500&height=42&lines=Programador+y+Analista;Competencias+en+HTML%2C+CSS%2C+y+JavaScript;Versión+Control(git);Diseño+Responsivo;Continuo+Aprendizaje;Adaptabilidad+y+Flexibilidad;Atención+al+Detalle" alt="Typing SVG" /></a></p>
 
 ## <picture><img src = "./assets/images/md/about_me.gif" align="center" width ="120px"></picture> **About me** <picture> </picture> <br>
 <img align="right" src="./assets/images/md/programming.svg" width = 350px>
