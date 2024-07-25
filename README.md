@@ -10,7 +10,7 @@
 - Constantemente busco oportunidades para aprender y experimentar con las últimas herramientas y frameworks de desarrollo.
 - Una de las formas en las que he estado desafiando y mejorando mis habilidades es a través de proyectos en **[Frontend Mentor](https://www.frontendmentor.io/profile/GustavoSDS)**. Esta plataforma me ha brindado la oportunidad de enfrentar retos de diseño y desarrollo, aplicando mis conocimientos y superando obstáculos técnicos.
 - Además, estoy considerando cursar la licenciatura en Informática para profundizar mis conocimientos teóricos y complementar mi experiencia práctica. Creo firmemente que una formación académica sólida me brindará una base profunda en los fundamentos de la informática y me permitirá abordar proyectos más complejos con una perspectiva más amplia.
-- Visita mi **[sitio web personal](https://gsds-portfolio.netlify.app/)** para más información sobre mí.
+- Visita mi **[sitio web personal](https://simondev-sds.netlify.app/)** para más información sobre mí.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
